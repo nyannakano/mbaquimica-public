@@ -17,3 +17,4 @@ Technologies used:
     JavaScript
     Laravel
     BootStrap (with Paper Kit)
+    MariaDB
