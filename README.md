@@ -9,7 +9,7 @@ The project was coded for a cleaning products company named Mbaquimica. The syst
 
 The idea of the client was not to create a webstore, only a showcase of the products they have to recruit new retailers.
 
-The system is in use by the company on the URL: mbaquimica.com.br/ But I don't support it anymore since I'm no longer part of the company (Kuba Inteligência) anymore. The code presented here in the repo was done by me, everything else that has been added or removed on the production site was done by the current dev team of Kuba.
+The system is in use by the company on the URL: http://mbaquimica.com.br/ But I don't support it anymore since I'm no longer part of the company (Kuba Inteligência) anymore. The code presented here in the repo was done by me, everything else that has been added or removed on the production site was done by the current dev team of Kuba.
 
 Technologies used:
 
